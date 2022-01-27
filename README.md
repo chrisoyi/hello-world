@@ -2,5 +2,4 @@
 
 Hi Humans
 
-Hey am Chris, im a software engineer learning how to connect and do projects collaborately and share ideas on this platform.
-lets work!
+Am Chris, im a software engineering majotr (MGSU '19), checkout my code i wrote from scratch in the files. 
